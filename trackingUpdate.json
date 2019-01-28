@@ -1,0 +1,7 @@
+PATCH https://{{accountName}}.{{environment}}.com.br/api/oms/pvt/orders/{{orderId}}/invoice/{{invoiceNumber}}
+
+{
+  "trackingNumber": "87658",
+  "trackingUrl": null,
+  "courier": null
+}
