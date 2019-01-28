@@ -1,0 +1,30 @@
+[
+    {
+        "origin": "Marketplace",
+        "orderId": "906632103279-01",
+        "status": "waiting-for-seller-confirmation",
+        "dateTime": "2019-01-28T14:35:08.2723340+00:00",
+        "commitToken": "Marketplace##{\"Receipt\":\"AQEB3pbfjv9PXCRIGaCD03u7BUKMt6aHnfLjm18ntYQ3Q/yrMeSHqePq6bM4cwTxDKqVE4fxA4Vv1g6J4JSUB64445fjM9YH09I0JvuDF67ozHRuE8aCcukO+LdPgWGFp0IsvGVl1ddzoZn5k2tJ3ka22T+dZ8ySaecVZhIhC3CbENESVG8QPlV573WzolDsoj2m+XyHHlBPZqvMuxARqvEf8WoAC0gxMLc1Xmy1Upf8Lkcavhm7kYrYwG/P8Zi8zkbQ733P5RmaGYe85CiWHrGqpiQszCqHiO630eXlkfA+ch5Fn+S5v5WF/0AfxxDumEzKYSaoWybLK5f9IrDgw1OLSCOal8yOiJtg/uk7ZmndI0gA32KfrXtEctF7tVCi6bQHKussuvcbAvwXSFK0z7UrD9+guL28aVPoxpkRQctpCYkt+V9mzmOmI07advo6DuPhk6jH2+QW4xP7bo58ovPa0Q==\",\"PublisheId\":\"B384E6D1ACD04814BB87207AFDEE6DF3\",\"PublisheId_Item\":\"B384E6D1ACD04814BB87207AFDEE6DF3\",\"EventId\":\"Marketplace_VTEXWorkflowStateChanged_51560F1E22AF48D5803B2C087259C5F2_waiting-for-seller-confirmation\",\"LastSendOverwrite\":null}"
+    },
+    {
+        "origin": "Marketplace",
+        "orderId": "906632103279-01",
+        "status": "order-created",
+        "dateTime": "2019-01-28T14:35:10.2443484+00:00",
+        "commitToken": "Marketplace##{\"Receipt\":\"AQEBKFpXG2ODONaQp7j9VfFpjp+QfcpoOZ7PCh7Q2FT+Sc+9Gzn/FuK63Tk0TRdJYCuJtzuXRTV2GopN+VnLyh/hnXsPmnCi29+IF5WOwA/0av0QI66sPhNyjbRocr7R+Gxh+EBlsuuZ9WvjMM2wWlCHzkK/rFrH25/Xd3CtfMVbibAyW/JcdM7/sXnc6I01puzDHoWAun1jihdaKAqia1xdcbqfiTodBY2ByW6kZUSdPWriOSXVKHv/Q1dr/Jn1P07kqW3vg4zaPpQNTqKYYz/pwwY+7nvxNprtPmLdk5hyzK6s/H32B9fJBr2oCFxceXxUFSk+Aw4+KDa6TvAvPW7/r8y0754sLpvvgksX9jHVJva/CxnAEjPD4Q3KdGomYXUOO5JSt7r9RBJCL/fs0E6OQuVZ/Y9nCEBq0d86OOmW8XpHe/hfMtHFiHZ2mS5Suj9AxUfPYcK9xh3wHrAef0sYHQ==\",\"PublisheId\":\"B384E6D1ACD04814BB87207AFDEE6DF3\",\"PublisheId_Item\":\"B384E6D1ACD04814BB87207AFDEE6DF3\",\"EventId\":\"Marketplace_VTEXWorkflowStateChanged_51560F1E22AF48D5803B2C087259C5F2_order-created\",\"LastSendOverwrite\":null}"
+    },
+    {
+        "origin": "Fulfillment",
+        "orderId": "906632103279-01",
+        "status": "order-accepted",
+        "dateTime": "2019-01-28T14:35:09.1367743+00:00",
+        "commitToken": "Fulfillment##{\"Receipt\":\"AQEBfu+msuPXMAJIlb9dp+fU3XIlX3344V6NfXmJTDhiFaWVjtIByPzmgkueUGLJH6wd6OapU4pxSoZ39AmPOtfuonz0LFg9UY7YY9xXtAcBGy3FIJxUi3k6D/znOcOIp3HOyxONZL0DRScD2Zye6ly/6Crl0jK3u3jkfpsUDrdmYhPnnPqsR+8lIvKOeSXnvyN3Xq13uT3r0exuY3vfDbaR/y0j3sCsq8gdKg7wNBLLlOznzZQg70gQUnfBN0Dg9tDpDo3QrZ68sVQwruJOds+MsD8OIVNy6Nmaps2Mvb20OjmEKP0I9nukLTdG0nz/D33bUqpJAYoqF+R39mKPdnuRlKbWksLt5qERroIqgWU9D2lYBCYO5O4ZaGDvbKUHoTNHiZag3zQfUE4yBjbeoaqCHBhLU1EoKU+rOMKG5//DcpT/yJcL7RHTwEyzUmX5bayuJ3R6+AZwWeZ5Ae6fU2RI3Q==\",\"PublisheId\":\"B384E6D1ACD04814BB87207AFDEE6DF3\",\"PublisheId_Item\":\"B384E6D1ACD04814BB87207AFDEE6DF3\",\"EventId\":\"Fulfillment_VTEXWorkflowStateChanged_B5DC94918F5B4A30A115A0B818DB93E2_order-accepted\",\"LastSendOverwrite\":null}"
+    },
+    {
+        "origin": "Fulfillment",
+        "orderId": "906632103279-01",
+        "status": "order-completed",
+        "dateTime": "2019-01-28T14:35:10.2066923+00:00",
+        "commitToken": "Fulfillment##{\"Receipt\":\"AQEBDXZy00giV6VfmGopaKOEG1jS/Vh56MeCwC1f3j8WwcoeEsbECxnCuNLubdhd0qpuWyL7JOjm8qXVOo14fH9IuLVO6fvj69ku3neQoY74IUcBanBI2S9DnSuCy7crPpk8V4436qotzSTjMjYM8sW6JUCUawVq0r8zQl92tDsQl56+uFoBC2igJxoaUHC2LaWbRLGn2uu0Pm0xoAyGmum2EPXLiYkWB69b8/3bqnChkPo73DSV7tuppR6YnfPiUlrvnDA+sdzbG2pW7D7fska23mh+kLpEGh/+Q30ikluz0Vq7byaoRaWdg94M7Cg6QFZm/0ZbPUhcDgBymQOu4HaZ409OJ3w/T4llItfKGuhEWUl6YEQytfgGo4VWqLp3HpbyqMN0Llgkw/zLuKxmZ+dz96FSXN+ZayNWVJ+JKBthXf5NRGmak2qdW+MH5+4FvyhfWmreHF0CLG0C2i9XdiCLiQ==\",\"PublisheId\":\"B384E6D1ACD04814BB87207AFDEE6DF3\",\"PublisheId_Item\":\"B384E6D1ACD04814BB87207AFDEE6DF3\",\"EventId\":\"Fulfillment_VTEXWorkflowStateChanged_B5DC94918F5B4A30A115A0B818DB93E2_order-completed\",\"LastSendOverwrite\":null}"
+    }
+]
