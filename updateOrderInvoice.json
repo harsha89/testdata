@@ -1,0 +1,20 @@
+https://{{accountName}}.{{environment}}.com.br/api/oms/pvt/orders/{{orderId}}/invoice
+
+{
+ "type":"Output",
+ "issuanceDate":"2010-01-31",
+ "invoiceNumber":"9999",
+ "invoiceValue":"10000",
+ "invoiceKey": null,
+ "invoiceUrl": null,
+ "courier": null,
+ "trackingNumber": null,
+ "trackingUrl": null,
+ "items": [
+   {
+     "id": "1234",
+     "price": 10000,
+     "quantity": 1
+    }
+  ]
+ }
